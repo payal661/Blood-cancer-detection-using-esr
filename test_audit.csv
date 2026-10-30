@@ -1,0 +1,77 @@
+column,missing_values,data_type,unique_values
+sample_id,0,str,58481
+Q-Flag(Blasts/Abn Lympho?),0,float64,32
+Q-Flag(Blasts?),0,float64,32
+Q-Flag(Abn Lympho?),0,float64,32
+Q-Flag(Left Shift?),0,float64,32
+Q-Flag(Atypical Lympho?),0,float64,32
+Q-Flag(RBC Agglutination?),0,float64,23
+Q-Flag(Turbidity/HGB Interf?),0,float64,21
+Q-Flag(Iron Deficiency?),0,float64,13
+Q-Flag(HGB Defect?),0,float64,9
+Q-Flag(Fragments?),0,float64,32
+Q-Flag(PLT Clumps?),0,int64,31
+WBC(10^9/L),0,float64,3077
+RBC(10^12/L),0,float64,576
+HGB(g/L),0,int64,175
+HCT(%),0,float64,489
+MCV(fL),0,float64,619
+MCH(pg),0,float64,340
+MCHC(g/L),0,int64,247
+PLT(10^9/L),0,int64,750
+RDW-SD(fL),0,float64,649
+RDW-CV(%),0,float64,218
+PDW(fL),0,float64,202
+MPV(fL),0,float64,86
+P-LCR(%),0,float64,598
+PCT(%),0,float64,102
+NRBC#(10^9/L),0,float64,200
+NRBC%(/100WBC),0,float64,219
+NEUT#(10^9/L),0,float64,2737
+LYMPH#(10^9/L),0,float64,778
+MONO#(10^9/L),0,float64,540
+EO#(10^9/L),0,float64,214
+BASO#(10^9/L),0,float64,62
+NEUT%(%),0,float64,990
+LYMPH%(%),0,float64,928
+MONO%(%),0,float64,561
+EO%(%),0,float64,258
+BASO%(%),0,float64,60
+[IG#(10^9/L)],0,float64,502
+[IG%(%)],0,float64,350
+[PLT-I(10^9/L)],0,int64,750
+[MicroR(%)],0,float64,528
+[MacroR(%)],0,float64,363
+[TNC(10^9/L)],0,float64,3071
+[WBC-N(10^9/L)],0,float64,3078
+[TNC-N(10^9/L)],0,float64,3072
+[BA-N#(10^9/L)],0,float64,132
+[BA-N%(%)],0,float64,76
+[WBC-D(10^9/L)],0,float64,3065
+[TNC-D(10^9/L)],0,float64,3085
+[NEUT#&(10^9/L)],0,float64,2640
+[NEUT%&(%)],0,float64,989
+[LYMP#&(10^9/L)],0,float64,780
+[LYMP%&(%)],0,float64,926
+[HFLC#(10^9/L)],0,float64,100
+[HFLC%(%)],0,float64,120
+[BA-D#(10^9/L)],0,float64,81
+[BA-D%(%)],0,float64,71
+[NE-SSC(ch)],0,float64,589
+[NE-SFL(ch)],0,float64,792
+[NE-FSC(ch)],0,float64,539
+[LY-X(ch)],0,float64,462
+[LY-Y(ch)],0,float64,764
+[LY-Z(ch)],0,float64,310
+[MO-X(ch)],0,float64,419
+[MO-Y(ch)],0,float64,1270
+[MO-Z(ch)],0,float64,391
+[NE-WX],0,float64,570
+[NE-WY],0,float64,1498
+[NE-WZ],0,float64,1019
+[LY-WX],0,float64,1106
+[LY-WY],0,float64,1562
+[LY-WZ],0,float64,1124
+[MO-WX],0,float64,545
+[MO-WY],0,float64,1319
+leukemia_label,0,str,2
